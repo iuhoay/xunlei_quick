@@ -2,7 +2,7 @@
   "name": "迅雷快捷",
   "description": "右键菜单 使用迅雷离线下载 web 端",
   "homepage_url": "https://github.com/iuhoay/lixian_quick",
-  "version": "0.1",
+  "version": "0.2",
   "permissions": ["contextMenus"],
   "icons": {
     "48": "48.png",
