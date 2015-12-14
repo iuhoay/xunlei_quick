@@ -13,10 +13,10 @@
   });
 
   function get_link(info) {
-    if (info.selectionText) {
-      return info.selectionText;
-    } else if (info.linkUrl) {
+    if (info.linkUrl) {
       return info.linkUrl;
+    } else if (info.selectionText) {
+      return info.selectionText;
     }
   }
 })();
